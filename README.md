@@ -2,6 +2,9 @@
 Accompanying Data and Code for the paper titled: The effect of technological innovation on production capabilities spillovers in developing economies.
 
 
+DATA FILES LOCATION: https://drive.google.com/drive/folders/1gEy0_oJuEd2uDtCNuVGqhrXU78WM0oMw?usp=drive_link
+This file is associated with the following GitHub repository: https://github.com/HaninAlhaddad/TI-Effect-on-Green-Capabilities-Spillovers/tree/main
+
 ######	Code File: JCP-Code:
 ###### 	MAIN DATA FILES:
 
